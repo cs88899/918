@@ -1,5 +1,5 @@
 {
-  "number": "12",
+  "number": "13",
   "download": "https://apidownload.oss-accelerate.aliyuncs.com/h5.zip",
   "is_force_update": "0",
   "detail": "版本更新描述:1、修复了闪退bug\n2、优化了app性能，如果download为空则不更新，如download有内容则更新"
